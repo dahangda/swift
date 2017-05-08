@@ -40,4 +40,4 @@ if var stockCode = findStockCode("Apple") {
 }
 
 ````
-canc kao
+[参考文章](http://www.cocoachina.com/swift/20160810/17330.html?utm_source=tuicool&utm_medium=referral )
